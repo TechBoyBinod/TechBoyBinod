@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @TechBoyBinod
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning still student
+- 🌱 I’m currently learning Python,Java,C,C++,php,Java Script,Linux
+- 🤔Ask me any thing,I'glad to respond it
+- 📚I'm still student
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shamilniroshana974@gmail.com
 
